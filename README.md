@@ -8,7 +8,7 @@ An application to play a simple card game. 2 players play the game. They will dr
 
             python -m venv c:\path\to\myenv
 
-2. Activate virtual environment using one of the following commands (.bat for cmd, .ps1 for Powershell)
+2. Activate virtual environment using one of the following commands (.bat for cmd, .ps1 for Powershell).
 
             .\myenv\Scripts\activate.bat
             .\myenv\Scripts\activate.ps1
@@ -30,7 +30,7 @@ An application to play a simple card game. 2 players play the game. They will dr
 
 1. Run the unit tests from the root directory using:
 
-            python -m pytest tests
+            pytest c:\path\to\tests
 
 #### Assumptions
 
